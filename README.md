@@ -27,7 +27,7 @@ Git / GitHub Pages
 Запуск проекту
 
 Clone the repository:
-git clone [repository](https://github.com/DmytroPAvlichenko/landing-page-BOSE-NOTHING.git/)
+git clone [repository]( https://dmytropavlichenko.github.io/landing-page-BOSE-NOTHING/)
 
 cd landing-page-BOSE-NOTHING
 
