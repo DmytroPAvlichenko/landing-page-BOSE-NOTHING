@@ -1,0 +1,2 @@
+var e=document.querySelector("main").querySelectorAll(".recommended, .categories"),r=new window.IntersectionObserver(function(e){e.forEach(function(e){if(e.isIntersecting){var t=e.target;t.classList.remove("recommended-from-left"),t.classList.remove("categories-from-left"),t.style.opacity="1",t.style.transform="translateX(0) translateY(0)",r.unobserve(e.target)}})},{threshold:.02});e.forEach(function(e){r.observe(e)});
+//# sourceMappingURL=index.dc792dfa.js.map
