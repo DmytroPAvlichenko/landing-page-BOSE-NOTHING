@@ -1,5 +1,11 @@
 Landing page
 
+🔗 Посилання на прев’ю
+ - [DEMO LINK](https://dmytropavlichenko.github.io/layout_landing-page/)
+
+🎨 Посилання на макет:
+ -[Макет у Figma]: (https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-245&t=Cfywu5XVsLWhJLHK-0/)
+
 Короткий опис: Адаптивна односторінкова вебсторінка, створена за макетом з Figma. Включає секції: хедер, герой-блок, категорії товарів, відгуки та футер. Сторінка оптимізована під різні пристрої з використанням сучасних технік верстки.
 
 Технології, які було використано:
@@ -18,6 +24,15 @@ JavaScript
 
 Git / GitHub Pages
 
-🔗 Посилання на прев’ю (live demo): https://dmytropavlichenko.github.io/layout_landing-page/
+Запуск проекту
 
-🎨 Посилання на макет: Макет у Figma: https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-245&t=Cfywu5XVsLWhJLHK-0
+Clone the repository:
+git clone https://github.com/DmytroPAvlichenko/landing-page-BOSE-NOTHING.git
+
+cd landing-page-BOSE-NOTHING
+
+Install dependencies:
+npm install
+
+Run the project locally:
+npm start
