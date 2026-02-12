@@ -1,4 +1,23 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Landing page
+
+Короткий опис: Адаптивна односторінкова вебсторінка, створена за макетом з Figma. Включає секції: хедер, герой-блок, категорії товарів, відгуки та футер. Сторінка оптимізована під різні пристрої з використанням сучасних технік верстки.
+
+Технології, які було використано:
+
+HTML5
+
+SCSS
+
+BEM
+
+Responsive design (медіа-запити)
+
+Flexbox / Grid
+
+JavaScript
+
+Git / GitHub Pages
+
+🔗 Посилання на прев’ю (live demo): https://dmytropavlichenko.github.io/layout_landing-page/
+
+🎨 Посилання на макет: Макет у Figma: https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6802-245&t=Cfywu5XVsLWhJLHK-0
